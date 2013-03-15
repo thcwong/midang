@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x02BBF2B8" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x0499E798"/>
+  <item nodeId="node-0x02BBF2B8">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">Sunrise&#x000A;An Interactive Fiction by AshTomWin&#x000A;Release 1 / Serial number 130314 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Room 3539&#x000A;You can see Door 3539 and Savva here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">Sunrise&#x000A;An Interactive Fiction by AshTomWin&#x000A;Release 1 / Serial number 130314 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Room 3539&#x000A;You can see Door 3539 and Savva here.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02BBF328"/>
+      <child nodeId="node-0x02BD00E8"/>
+      <child nodeId="node-0x0499E798"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF328">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Door 3539)&#x000A;&#x000A;Hallway 1&#x000A;There are graffiti on the walls and dust everywhere. A mouse can be heard rustling in a corner.&#x000A;&#x000A;You can see a Stairwell Door and Door 3539 here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF398"/>
+      <child nodeId="node-0x02BD36E8"/>
+      <child nodeId="node-0x02C14B60"/>
+      <child nodeId="node-0x07F894F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF398">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening the Stairwell Door)&#x000A;&#x000A;Stairwell Room&#x000A;You can see a Stairwell Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF408"/>
+      <child nodeId="node-0x02BD3758"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF408">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF478"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF478">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3540&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF4E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF4E8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF558"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF558">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Stairwell Room&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF5C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF5C8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF638"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF638">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF6A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF6A8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF718"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF718">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 2&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BBF788"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BBF788">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 3&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCBB90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCBB90">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCBC00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCBC00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 5&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCD8E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCD8E8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCD958"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCD958">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCD9C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCD9C8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3544&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDA38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDA38">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDAA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDAA8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3545 &lt;Your Room&gt;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDB18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDB18">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDB88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDB88">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDBF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDBF8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDC68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDC68">
+    <command xml:space="preserve">look around</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDCD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDCD8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 5&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDD48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDD48">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3547&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDDB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDDB8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 5&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDE28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDE28">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3546&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDE98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDE98">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 5&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDF08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDF08">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDF78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDF78">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 3&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCDFE8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCDFE8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3543&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE058"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE058">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 3&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE0C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE0C8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hall Bathroom&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE138"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE138">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE1A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE1A8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 3&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE218"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE218">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 2&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE288"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE288">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3541&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE2F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE2F8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 2&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE368"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE368">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3542&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE3D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE3D8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 2&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE448"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE448">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE4B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE4B8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3539&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE528"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE528">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE598"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE598">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3540&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE608"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE608">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE678"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE678">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 1&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE6E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE6E8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3539&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE758"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE758">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Bathroom of 3539&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE7C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE7C8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BCE838"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BCE838">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Room 3539&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02BD3758">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD37C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD37C8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 1&#x000A;You can see a Stairwell Door and Door 3539 here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02BD36E8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 2&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is flickering. The bulb should be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD3608"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD3608">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 3&#x000A;There are graffiti on the walls and dust everywhere. It is very quiet in the middle of the hallway; you can hear the echoes of sounds from inside the residents" rooms.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD3678"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD3678">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 4&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is completely dead. It needs to be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD3838"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD3838">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 5&#x000A;It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C14850"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C14850">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3546&#x000A;The smell is rife with marijuana. The window is wide open, and the heater is turned on all the way. Gentle yet hypnotic music is playing in the background. The color theme of the room is rainbow. There are clothes scattered about the room, but there is a diary on the desk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C148C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C148C0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 5&#x000A;It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C14930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C14930">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 4&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is completely dead. It needs to be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C149A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C149A0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 3&#x000A;There are graffiti on the walls and dust everywhere. It is very quiet in the middle of the hallway; you can hear the echoes of sounds from inside the residents" rooms.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C14A10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C14A10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hall Bathroom&#x000A;There is a public bathroom in the middle of the hall. The bathroom is very dirty. The bathroom has not been cleaned in several years. The mirror in the bathroom wall is hanging on one edge. The sink is dirty but not clogged. There is no soap to be found in the bathroom. The shower can only fit one person at a time. There are blood stains on the shower floor. The shower head is broken. When the water is turned on for the shower, it sprays water like that of a lawn hose. The toilet is clogged. There is poop in the toliet that seems to not have been flushed in years. It smells terrible. There is a sink, toilet, shower and a mirror in the bathroom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02C14B60">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3540&#x000A;Cold and dark. You feel a sudden rush of cold breeze brush against you as you turn your attention to the wide open window across the dark room. There is a small bed beneath the window with worn out blankets. The floor is dusty with cobwebs occupating the corners of the room. A rocking chair rocks slightly, making a creaking noise. It seems like it has been vacant for a while.&#x000A;&#x000A;You can see Zoya here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C14AF0"/>
+      <child nodeId="node-0x07F89798"/>
+      <child nodeId="node-0x07F89808"/>
+      <child nodeId="node-0x07F899C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C14AF0">
+    <command xml:space="preserve">ask about my leg</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02C14A80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02C14A80">
+    <command xml:space="preserve">ask about taft</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F89258"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F89258">
+    <command xml:space="preserve">ask zoya about targdrhg</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F892C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F892C8">
+    <command xml:space="preserve">ask zoya about ivana</command>
+    <result xml:space="preserve">I dont know what you're talking about&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F893A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F893A8">
+    <command xml:space="preserve">ask me about ivana</command>
+    <result xml:space="preserve">I dont know what you're talking about&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F89488"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F89488">
+    <command xml:space="preserve">ask siurhgsriuhgsriug about ivana</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x07F89798">
+    <command xml:space="preserve">ask zoya about gate combination</command>
+    <result xml:space="preserve">Unfortunately I don't know what the gate combination is. I think the man who used to live next door to me &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x07F89808">
+    <command xml:space="preserve">ask zoya about soeubg</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F89878"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F89878">
+    <command xml:space="preserve">ask zoya about gate combination</command>
+    <result xml:space="preserve">Unfortunately I don't know what the gate combination is. I think the man who used to live next door to me had an idea who did, but he wasn't exactly the most straight headed person. Not sure what happened to him..&#x000A;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x07F899C8">
+    <command xml:space="preserve">ask zoya about the gate combination</command>
+    <result xml:space="preserve">Unfortunately I don't know what the gate combination is. I think the man who lives in 3542 (next door) to me had an idea who did, but he wasn't exactly the most level headed person. Not sure who he is though..&#x000A;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77248"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77248">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 1&#x000A;There are graffiti on the walls and dust everywhere. A mouse can be heard rustling in a corner.&#x000A;&#x000A;You can see a Stairwell Door and Door 3539 here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B772B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B772B8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 2&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is flickering. The bulb should be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77328"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77328">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 3&#x000A;There are graffiti on the walls and dust everywhere. It is very quiet in the middle of the hallway; you can hear the echoes of sounds from inside the residents" rooms.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77398"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77398">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 4&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is completely dead. It needs to be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77408"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77408">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hallway 5&#x000A;It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77478"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77478">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3546&#x000A;The smell is rife with marijuana. The window is wide open, and the heater is turned on all the way. Gentle yet hypnotic music is playing in the background. The color theme of the room is rainbow. There are clothes scattered about the room, but there is a diary on the desk.&#x000A;&#x000A;You can see Masha here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B774E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B774E8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway 5&#x000A;It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77558"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77558">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B775C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B775C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3547&#x000A;There are bottles of liquor everywhere -- vodka, whiskey, rum -- grouped up in a minibar located at the corner of the room. The window is cracked open slightly, and the bed is plagued with stained drinks and the carpet with vomit. There is a torn luggage with some items.&#x000A;&#x000A;You can see Petya here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77638"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77638">
+    <command xml:space="preserve">ask petya about the gate combination</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B776A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B776A8">
+    <command xml:space="preserve">ask petya about the man who lives in 3542</command>
+    <result xml:space="preserve">Ah. I believe his name was Jakov. He used to live here a while ago, I don't really remember what happened to him.&#x000A;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77868"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77868">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B777F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B777F8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Room 3547&#x000A;There are bottles of liquor everywhere -- vodka, whiskey, rum -- grouped up in a minibar located at the corner of the room. The window is cracked open slightly, and the bed is plagued with stained drinks and the carpet with vomit. There is a torn luggage with some items.&#x000A;&#x000A;You can see Petya here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77788"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77788">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 5&#x000A;It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B778D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B778D8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 4&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is completely dead. It needs to be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B77948"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B77948">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 3&#x000A;There are graffiti on the walls and dust everywhere. It is very quiet in the middle of the hallway; you can hear the echoes of sounds from inside the residents" rooms.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07B779B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07B779B8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 2&#x000A;There are graffiti on the walls and dust everywhere. The light on the ceiling is flickering. The bulb should be replaced soon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0499E5D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0499E5D8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hallway 1&#x000A;There are graffiti on the walls and dust everywhere. A mouse can be heard rustling in a corner.&#x000A;&#x000A;You can see a Stairwell Door and Door 3539 here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0499E648"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0499E648">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Room 3539&#x000A;You can see Door 3539 and Savva here.&#x000A;&#x000A;Savva stares at you creepily&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0499E6B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0499E6B8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway 1&#x000A;There are graffiti on the walls and dust everywhere. A mouse can be heard rustling in a corner.&#x000A;&#x000A;You can see Door 3539 and a Stairwell Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0499E728"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0499E728">
+    <command xml:space="preserve">knock</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x07F894F8">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F89568"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F89568">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F895D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F895D8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Room 3540&#x000A;Cold and dark. You feel a sudden rush of cold breeze brush against you as you turn your attention to the wide open window across the dark room. There is a small bed beneath the window with worn out blankets. The floor is dusty with cobwebs occupating the corners of the room. A rocking chair rocks slightly, making a creaking noise. It seems like it has been vacant for a while.&#x000A;&#x000A;You can see Zoya here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F89648"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F89648">
+    <command xml:space="preserve">ask zoya about the gate combination</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x07F896B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x07F896B8">
+    <command xml:space="preserve">ask zoya about gate combination</command>
+    <result xml:space="preserve">I dont know what you're talking about&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02BD00E8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Room 3539&#x000A;You can see Savva here.&#x000A;&#x000A;Savva stares at you creepily&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD0158"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD0158">
+    <command xml:space="preserve">talk</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02BD01C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02BD01C8">
+    <command xml:space="preserve">talk to</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0499E798">
+    <command xml:space="preserve">talk to savva</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+  </item>
+</Skein>
